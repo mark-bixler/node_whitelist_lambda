@@ -2,3 +2,4 @@ node_modules
 setup_env.ps1
 notes.txt
 package-lock.json
+.vscode
