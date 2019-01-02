@@ -1,0 +1,11 @@
+{
+    "name": "lambda_node_sg_whitelist",
+    "description": "Mark's Lambda Script to update security groups with Whitelisted, IP's",
+    "license": "MindBody",
+    "dependencies": {
+        "aws-sdk": "^2.382.0",
+        "es6-promise": "^4.2.5",
+        "isomorphic-fetch": "^2.2.1",
+        "request": "^2.88.0"
+    }
+}
